@@ -7,7 +7,8 @@ This repository contains the data and code for the paper mentioned above.
 *General Files*
 
 `data/community_map.pickle`: maps a Twitter user to its community, Trump or Biden.
-`data/mention_map.pickle`: maps the author to a list of users he mentions author: (user, tweet_id)
+`data/mention_map.pickle`: maps the author to a list of users he has mentioned
+`data/author_hashtags_map.json`: maps the author to a list of all hashtags he has used.
 
 *Coretweet network*
 
